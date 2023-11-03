@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/shoping-internshala/static/css/main.0e5f6a14.css",
+    "main.js": "/shoping-internshala/static/js/main.599fee4e.js",
+    "static/js/787.d0acb16e.chunk.js": "/shoping-internshala/static/js/787.d0acb16e.chunk.js",
+    "static/media/Toys4.jpg": "/shoping-internshala/static/media/Toys4.9abcab0d2676345ef1ed.jpg",
+    "static/media/electronics4.jpg": "/shoping-internshala/static/media/electronics4.ad63cf620854e5a3ba3d.jpg",
+    "static/media/Beauty3.jpeg": "/shoping-internshala/static/media/Beauty3.7b8e5960236bda5c19d5.jpeg",
+    "static/media/img4.jpg": "/shoping-internshala/static/media/img4.96dd855f324d1688c54c.jpg",
+    "static/media/img2.jpg": "/shoping-internshala/static/media/img2.52f655d564f49b8c2f1b.jpg",
+    "static/media/clothing2.jpg": "/shoping-internshala/static/media/clothing2.bd6aef88d25b6a0b4150.jpg",
+    "static/media/Toys5.webp": "/shoping-internshala/static/media/Toys5.031af8952608cd7a40b0.webp",
+    "static/media/img1.jpg": "/shoping-internshala/static/media/img1.a791c9854defd114655e.jpg",
+    "static/media/img3.jpg": "/shoping-internshala/static/media/img3.d46ca155b2c1a7869992.jpg",
+    "static/media/Toys2.jpg": "/shoping-internshala/static/media/Toys2.c9dfa6403bb993edb549.jpg",
+    "static/media/img7.jpg": "/shoping-internshala/static/media/img7.15a2cf25970adda943fc.jpg",
+    "static/media/img5.jpg": "/shoping-internshala/static/media/img5.8da082c6677e5f163f23.jpg",
+    "static/media/HomeDecor5.jpeg": "/shoping-internshala/static/media/HomeDecor5.eb1f7fb9b7b6ebf73212.jpeg",
+    "static/media/Toys3.jpeg": "/shoping-internshala/static/media/Toys3.e382e7a31259744d171e.jpeg",
+    "static/media/HomeDecor4.webp": "/shoping-internshala/static/media/HomeDecor4.0ac58109e305f2c98449.webp",
+    "static/media/img6.jpg": "/shoping-internshala/static/media/img6.9e7161f8c063bba70355.jpg",
+    "static/media/Toys1.webp": "/shoping-internshala/static/media/Toys1.2c9d21a01cf5fc9dba4e.webp",
+    "static/media/img8.jpg": "/shoping-internshala/static/media/img8.2e73ce4b3e45a2621e60.jpg",
+    "static/media/electronics1.webp": "/shoping-internshala/static/media/electronics1.d4caf7f9407b46b9fc60.webp",
+    "static/media/Clothing3.webp": "/shoping-internshala/static/media/Clothing3.e59b4b3f958a5ff8c614.webp",
+    "static/media/Beauty5.webp": "/shoping-internshala/static/media/Beauty5.fba550c8f33196a38eaa.webp",
+    "index.html": "/shoping-internshala/index.html",
+    "main.0e5f6a14.css.map": "/shoping-internshala/static/css/main.0e5f6a14.css.map",
+    "main.599fee4e.js.map": "/shoping-internshala/static/js/main.599fee4e.js.map",
+    "787.d0acb16e.chunk.js.map": "/shoping-internshala/static/js/787.d0acb16e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e5f6a14.css",
+    "static/js/main.599fee4e.js"
+  ]
+}
