@@ -24,8 +24,8 @@ const Navbar2 = () => {
 
       {/* <!-- NAVIGATION MENUS --> */}
       <div class="menu">
-        <li><Link to="/">HomeR</Link></li>
-        <li><Link to="/cart">CartR</Link></li>
+        <li><Link to="/">Home</Link></li>
+        <li><Link to="/cart">Cart</Link></li>
       </div>
     </ul>
   </nav>

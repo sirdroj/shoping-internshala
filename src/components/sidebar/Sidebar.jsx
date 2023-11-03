@@ -26,7 +26,6 @@ const Sidebar = () => {
   
   return (
     <div className="sidebar">
-      Sidebar
       <div>
       <h2>Select Categories:</h2>
       <label className="checkbox-label">
