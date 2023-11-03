@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/shoping-internshala/static/css/main.22550707.css",
-    "main.js": "/shoping-internshala/static/js/main.9869258b.js",
+    "main.css": "/shoping-internshala/static/css/main.0e99ed7e.css",
+    "main.js": "/shoping-internshala/static/js/main.67ba2dcd.js",
     "static/js/787.d0acb16e.chunk.js": "/shoping-internshala/static/js/787.d0acb16e.chunk.js",
     "static/media/Toys4.jpg": "/shoping-internshala/static/media/Toys4.9abcab0d2676345ef1ed.jpg",
     "static/media/electronics4.jpg": "/shoping-internshala/static/media/electronics4.ad63cf620854e5a3ba3d.jpg",
@@ -25,12 +25,12 @@
     "static/media/Clothing3.webp": "/shoping-internshala/static/media/Clothing3.e59b4b3f958a5ff8c614.webp",
     "static/media/Beauty5.webp": "/shoping-internshala/static/media/Beauty5.fba550c8f33196a38eaa.webp",
     "index.html": "/shoping-internshala/index.html",
-    "main.22550707.css.map": "/shoping-internshala/static/css/main.22550707.css.map",
-    "main.9869258b.js.map": "/shoping-internshala/static/js/main.9869258b.js.map",
+    "main.0e99ed7e.css.map": "/shoping-internshala/static/css/main.0e99ed7e.css.map",
+    "main.67ba2dcd.js.map": "/shoping-internshala/static/js/main.67ba2dcd.js.map",
     "787.d0acb16e.chunk.js.map": "/shoping-internshala/static/js/787.d0acb16e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.22550707.css",
-    "static/js/main.9869258b.js"
+    "static/css/main.0e99ed7e.css",
+    "static/js/main.67ba2dcd.js"
   ]
 }
