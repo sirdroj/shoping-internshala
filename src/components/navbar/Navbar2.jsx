@@ -12,7 +12,7 @@ const Navbar2 = () => {
   return (
     
 
-    <nav class="navbar">
+    <nav class="navbar bg-black">
     <div class="logo">Shoping.com</div>
     
     {/* <!-- NAVIGATION MENU --> */}

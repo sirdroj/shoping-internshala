@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import MyContext from "./MyContext";
 import { PRODUCTS } from "../products";
 const MyProvider = ({ children }) => {
@@ -19,7 +19,9 @@ const MyProvider = ({ children }) => {
       
   }
   let fdata=productfilter();
-
+  useEffect(() => {
+    setPageno(1);
+  }, [categorys,selectedRange]);
 
 
 

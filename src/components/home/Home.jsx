@@ -15,7 +15,7 @@ const Home = () => {
     <div>
       <div className="home_wrapper">
         <Sidebar/>
-        <div className="Home">
+        <div className="Home flex flex-wrap justify-evenly items-start">
           {fdata.slice((Pageno-1)*15, Pageno*15).map((product) => (
             <Card add={add} remove={remove} cart={cart} product={product} />
           ))}

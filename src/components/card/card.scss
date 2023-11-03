@@ -1,49 +1,50 @@
-.card{
-    width: 16%;
+.card {
+  // width: 16%;
+  // height: 350px;
+  border-style: outset;
+  border-radius: 10px;
+  // border-color: white;
+  padding: 20px;
+  // margin-left: 10px;
+  img {
+    // height: 7rem;
+    // width: 7rem;
+    max-width: 200px;
+  }
+  .producrName {
+    overflow: hidden;
+    height: 3.5rem;
+    font-size: 18px;
+  }
+  p {
+    margin: 0;
+  }
+  button {
+    // border-radius: 10px;
+  }
+}
+@media (max-width: 768px) {
+  .card {
+    width: 80%;
     // height: 350px;
-    border-style:outset;
+    border-style: outset;
     border-radius: 10px;
     border-color: white;
     padding: 20px;
-    margin-left: 10px;
-    img{
-        height: 7rem;
-        width: 7rem;
+    img {
+      height: 7rem;
+      width: 7rem;
     }
-    .producrName{
-        overflow: hidden;
-        height: 3.5rem;
-        font-size: 18px;
+    .producrName {
+      overflow: hidden;
+      height: 3.5rem;
+      font-size: 18px;
     }
-    p{
-        margin: 0;
+    p {
+      margin: 0;
     }
-    button{
-        border-radius:10px ;
+    button {
+      border-radius: 10px;
     }
-}
-@media (max-width: 768px) {
-    .card{
-        width: 80%;
-        // height: 350px;
-        border-style:outset;
-        border-radius: 10px;
-        border-color: white;
-        padding: 20px;
-        img{
-            height: 7rem;
-            width: 7rem;
-        }
-        .producrName{
-            overflow: hidden;
-            height: 3.5rem;
-            font-size: 18px;
-        }
-        p{
-            margin: 0;
-        }
-        button{
-            border-radius:10px ;
-        }
-    }
+  }
 }

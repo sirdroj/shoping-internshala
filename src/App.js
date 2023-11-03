@@ -10,7 +10,7 @@ import MyProvider from "./context/MyProvider";
 function App() {
   return (
     <MyProvider>
-      <div className="App flex">
+      <div className="App flex flex-col bg-gray-100 min-h-[100vh]">
         <Router>
           <Navbar2 />
           <Routes>

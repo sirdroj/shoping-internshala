@@ -5,7 +5,7 @@ const Footer = ({ Pageno, setPageno,totalcards }) => {
   let x=Math.ceil(totalcards/15)
   return (
     <footer className="footer_wrapper">
-      <div className="pagenavigator">
+      <div className="pagenavigator flex flex-row items-center gap-3">
         <span
           className="pg_button"
           onClick={() => {
